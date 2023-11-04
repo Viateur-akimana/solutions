@@ -7,7 +7,7 @@ int main(){
     double b;
     cout <<"ENter the number a:" << endl;
     cin >> a;
-    cout <<"ENter the second b:" << endl;
+    cout <<"ENter the second b:" <<endl;
     cin >> b;
     double ab = pow(a,2);
     double cb = pow(b,2);
