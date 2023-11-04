@@ -9,7 +9,7 @@ int main(){
            double c = sqrt(c_squared);
            if(c * c == c_squared && c >1 && c<=100 ){
                cout << a <<"," << b <<"=" <<c <<endl;
-           }
+          }
        count++;
             
         }
