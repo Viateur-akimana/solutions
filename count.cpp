@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    string sentence = "akimana viateur isstudying c++";
+    string sentence = "akimana viateur is studying c++";
     //number of character wth out spaces
     int numberOfCharacterWithOutSpaces = 0;
     for(char c: sentence){
